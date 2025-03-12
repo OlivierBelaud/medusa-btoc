@@ -999,7 +999,7 @@ export default async function seedCustomData({ container }: ExecArgs) {
           ],
           collection_id: latestDrops.id,
           description: "Immerse in flawless sound with the Audio Arrogance AuralElite Bluetooth headphones. Enjoy Active Noise Cancellation (ANC) for a premium audio experience.",
-          handle: "audio-arrogance-auralElite",
+          handle: "audio-arrogance-aural-elite",
           status: ProductStatus.PUBLISHED,
           shipping_profile_id: shippingProfile.id,
           options: [
